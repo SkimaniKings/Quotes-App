@@ -24,7 +24,7 @@
                   <p><strong>Likes:</strong>{{quote.numberOfLikes}} <span><strong>Dislikes:</strong>{{quote.numberOfDislikes}}</span></p>
                   </div>
               
-              <button (click)='toggleDetails(i)' class="btn btn-success">Description</button>
+              <button (click)='toggleDetails(i)' class="btn btn-outline-info">Description</button>
               <app-quote-detail *ngIf='quote.showDescription' [quote]='quote' (isComplete)='quoteDelete($event,i)'>
               </app-quote-detail>
             </div>
