@@ -1,12 +1,11 @@
-.col-md-6{
+/* .col-md-6{
     color: white;
     padding-top: 5%;
-}
+} */
 .quote{
     color: white;
 }
 .form-group,::placeholder{
-    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
     font-style: italic;
     font-family: fantasy;
 }
