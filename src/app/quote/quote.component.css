@@ -8,6 +8,7 @@
 #quotes{
     border: 2px solid black;
     text-align: center;
+    color:white;
     padding:10px;
     box-shadow: 5px 10px #888888;
 }
