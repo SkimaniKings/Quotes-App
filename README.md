@@ -18,6 +18,7 @@
 - Bootsrapp
 
 ## BDD
+
 > Load the app on appropriate browser.
 > View the Quotes Available.
 > Vote and Downvote the app depending on your preferences.
@@ -70,3 +71,17 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Support and contact details
+
+ - kimanisimon856@gmail.com
+ - 0713813919
+
+### License
+
+The project is under[MIT license](/blob/master/LICENSE)
+Copyright &copy; 2019.All rigths reserved
+
+## Author
+
+**Simon Kimani**
