@@ -3,9 +3,11 @@
 ## Description
 
 - This is an application that provides users with motivational quotes and allows them to `add` , `delete` and `vote` for the quotes.
-## Project screenshot 
+
+## Project screenshot
 
  <img src="src/assets/images/Screenshotpng" width=500px >
+ This is the landing page of the Website.
 
 ## Technologies Used
 
@@ -14,6 +16,13 @@
 - HTML
 - CSS
 - Bootsrapp
+
+## BDD
+> Load the app on appropriate browser.
+> View the Quotes Available.
+> Vote and Downvote the app depending on your preferences.
+> To add a quote fill out the form on the left side of the page.
+> Your quote appears on the top of the page.
 
 ## Development server
 
