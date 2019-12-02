@@ -1,6 +1,19 @@
 # QuotesApp
-## Description 
-- This is an application that provides users with motivational quotes and allows them to ``add`` , ``delete`` and ``vote`` for the quotes.
+
+## Description
+
+- This is an application that provides users with motivational quotes and allows them to `add` , `delete` and `vote` for the quotes.
+## Project screenshot 
+
+ <img src="src/assets/images/Screenshotpng" width=500px >
+
+## Technologies Used
+
+- Angular
+- Typescript
+- HTML
+- CSS
+- Bootsrapp
 
 ## Development server
 
@@ -27,7 +40,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
- `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+`http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
