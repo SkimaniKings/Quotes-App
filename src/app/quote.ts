@@ -7,10 +7,11 @@ public name: string,
 public description: string,
 
 
+
 public author: string,
 public postDate:Date,
 public numberOfLikes:number, 
-public numberOfDislikes:number
+public numberOfDislikes:number,
 )
 {
   this.showDescription=false;
