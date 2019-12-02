@@ -14,13 +14,6 @@ export class QuoteComponent implements OnInit {
     new Quote(3, "Kogei", "The hacking trend has definitely turned criminal because of e-commerce.", "Elbert Hubbard", new Date(2019, 10, 27), 0, 0),
     new Quote(4, "Kogei", " “It's not a faith in technology. It's faith in people.”.", "John Lasseter", new Date(2019, 10, 27), 0, 0),
   ]
-
-
-
-
-
-
-
   
   addNewQuote(quote) {
     let quoteLength = this.quotes.length;

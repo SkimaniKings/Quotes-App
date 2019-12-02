@@ -1,0 +1,27 @@
+.col-md-6{
+    color: white;
+    padding-top: 5%;
+}
+.quote{
+    color: white;
+}
+.form-group,::placeholder{
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-style: italic;
+    font-family: fantasy;
+}
+.desc{
+    font-style: italic;
+    font-family: fantasy;
+}
+.text-center{
+    color: orange;
+    padding-top: 7%;
+    font-family: monospace;
+    text-align: left;
+}
+#quotes{
+    border: 2px solid black;
+    text-align: center;
+    padding:10px;
+}
