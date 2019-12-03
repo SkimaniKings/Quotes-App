@@ -14,7 +14,8 @@
             <p *ngIf="highestUpvote()!==quote.numberOfLikes || quote.numberOfLikes===0">{{quote.theQuote}}
             </p>
             <em>
-              <p class="aaa">{{quote.author}}</p>
+              <p class="aaa">{{quote.name}}</p>
+              
               <i class="fa fa-quote-left"></i><p>{{quote.description}}</p><i class="fa fa-quote-right"></i>
             </em>
             <div>
